@@ -1,2 +1,1 @@
-# flamingo
-agent  for gray
+agent-pure模块 不依赖任何第三方jar， 只依赖jdk。

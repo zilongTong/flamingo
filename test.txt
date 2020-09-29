@@ -1,0 +1,49 @@
+2019-09-12 14:10:22.442 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Server version:        Apache Tomcat/8.0.53
+2019-09-12 14:10:22.530 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Server built:          Jun 29 2018 14:42:45 UTC
+2019-09-12 14:10:22.530 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Server number:         8.0.53.0
+2019-09-12 14:10:22.531 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - OS Name:               Linux
+2019-09-12 14:10:22.532 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - OS Version:            3.10.0-957.5.1.el7.x86_64
+2019-09-12 14:10:22.532 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Architecture:          amd64
+2019-09-12 14:10:22.533 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Java Home:             /usr/java/jdk1.8.0_131/jre
+2019-09-12 14:10:22.534 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - JVM Version:           1.8.0_131-b11
+2019-09-12 14:10:22.534 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - JVM Vendor:            Oracle Corporation
+2019-09-12 14:10:22.535 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - CATALINA_BASE:         /opt/tars/apps/10015/tomcat
+2019-09-12 14:10:22.536 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - CATALINA_HOME:         /opt/tars/apps/10015/tomcat
+2019-09-12 14:10:22.537 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.util.logging.config.file=/opt/tars/apps/10015/tomcat/conf/logging.properties
+2019-09-12 14:10:22.537 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+2019-09-12 14:10:22.538 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:SoftRefLRUPolicyMSPerMB=0
+2019-09-12 14:10:22.538 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Xmx1024m
+2019-09-12 14:10:22.539 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:-OmitStackTraceInFastThrow
+2019-09-12 14:10:22.545 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Xss256k
+2019-09-12 14:10:22.545 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Xms1024m
+2019-09-12 14:10:22.546 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:MetaspaceSize=96M
+2019-09-12 14:10:22.547 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:+UseG1GC
+2019-09-12 14:10:22.547 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:MaxGCPauseMillis=200
+2019-09-12 14:10:22.548 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:MaxMetaspaceSize=96M
+2019-09-12 14:10:22.548 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dport.http.server=8080
+2019-09-12 14:10:22.549 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dlog.server=/opt/logs/10015
+2019-09-12 14:10:22.549 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dport.shutdown.server=8005
+2019-09-12 14:10:22.550 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Ddocbase.server=/opt/tars/apps/10015/current
+2019-09-12 14:10:22.550 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dvdir.server=
+2019-09-12 14:10:22.551 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.security.egd=file:/dev/./urandom
+2019-09-12 14:10:22.551 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+2019-09-12 14:10:22.552 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+2019-09-12 14:10:22.552 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+2019-09-12 14:10:22.553 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -DAPPLOGDIR=/opt/logs/10015/applog
+2019-09-12 14:10:22.554 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -DSYSLOGDIR=/opt/logs/10015
+2019-09-12 14:10:22.554 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -DAPP_ID=10015
+2019-09-12 14:10:22.555 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dspring.logback.path=/opt/logs/10015/applog
+2019-09-12 14:10:22.555 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcom.sun.management.jmxremote.port=8089
+2019-09-12 14:10:22.556 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcom.sun.management.jmxremote.rmi.port=8089
+2019-09-12 14:10:22.556 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:+PrintGCDetails
+2019-09-12 14:10:22.557 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Xloggc:/opt/logs/10015/gc-1568268620.log
+2019-09-12 14:10:22.557 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:HeapDumpPath=/opt/logs/10015
+2019-09-12 14:10:22.564 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:+PrintGC
+2019-09-12 14:10:22.564 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+2019-09-12 14:10:22.565 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -XX:+PrintGCDateStamps
+2019-09-12 14:10:22.565 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+2019-09-12 14:10:22.566 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+2019-09-12 14:10:22.566 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dignore.endorsed.dirs=
+2019-09-12 14:10:22.567 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcatalina.base=/opt/tars/apps/10015/tomcat
+2019-09-12 14:10:22.567 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Dcatalina.home=/opt/tars/apps/10015/tomcat
+2019-09-12 14:10:22.568 [thread-ungot] [INFO] org.apache.catalina.startup.VersionLoggerListener-0 - Command line argument: -Djava.io.tmpdir=/opt/tars/apps/10015/tomcat/temp
